@@ -36,7 +36,7 @@
 3. There is an inequality in access, uptake, and effectiveness of technology
 
 > Designers need to analyze how the situations that frame design practice are themselves constructed -Suchman (paraphrased)
-### Readings
+### Recommended Readings
 
 | Title                                   | Author          |
 |-----------------------------------------|-----------------|
