@@ -26,7 +26,7 @@ Characterizing and Stratifying Cognitive Impairment
 - provide traditional neuropsychological evaluations + EMAs
 - develop conversational AI to chat w individuals 
 
-> **_NOTE:_**  healthcare industry is not equipped to incorporate big data for clinical applications
+> healthcare industry is not equipped to incorporate big data for clinical applications
 
 ## Tips
 * need a clear thesis of the problem you're trying to solve and talk to those who fill the gap--have a niche
